@@ -1,0 +1,9 @@
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Local data and uploaded test files
+uploaded_files/
+.DS_Store
